@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1y3Ad/m0o8lcMvgv2/m794hQzCwSQWYhT934vWNawfS0izIgptdjgP9TdYwKqePb7XLlSNlmpxhZACn3sG0x2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan.goncalves\\source\\repos\\WinFormAPI\\WinFormAPI\\WinFormAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan.goncalves\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

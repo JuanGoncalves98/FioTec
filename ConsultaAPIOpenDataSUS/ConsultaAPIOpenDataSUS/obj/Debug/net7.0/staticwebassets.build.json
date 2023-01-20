@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "06MejmIJzOLQAM2dT38GDmKFA09ftom2kNlD1djoXJM=",
+  "Source": "ConsultaAPIOpenDataSUSService",
+  "BasePath": "_content/ConsultaAPIOpenDataSUSService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,22 @@
+{
+    "query": {
+        "bool": {
+            "must": [{
+                "match": {
+                    "estabelecimento_uf": "RJ"
+                }
+            },
+            {
+                "match": {
+                    "vacina_fabricante_nome": "PFIZER"
+                }
+            },
+            {
+                "match": {
+                    "vacina_dataAplicacao": ":DATAACONSULTAR"
+                }
+            }]
+        }
+    },
+    "size":10000
+}
